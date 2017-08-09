@@ -1,2 +1,2 @@
-# Projects
-Project work done  while student at IIITB
+# DAA
+This contains an implementation of a 2D Segment tree.
